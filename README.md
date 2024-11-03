@@ -22,7 +22,7 @@ The repository is organized as follows:
 - **[README.md](README.md)**: This file explains the content and structure of the repository, providing an overview of each file  included.
 
 - **[group10.ipynb](group10.ipynb)**: This Jupyter Notebook contains:
-  1. A structured division of questions: **Research Questions (RQ)**,and its sub-sections **Bonus Question** and **Algorithmic Question**.
+  1. A structured division of questions: **Research Questions (RQ)**, it's sub-sections,  **Bonus Question** and **Algorithmic Question**.
   2. Python code to perform analyses and visualize results.
   3. Markdown cells that provide detailed explanations of:
      - The analysis techniques employed, including assumptions and reasoning.
